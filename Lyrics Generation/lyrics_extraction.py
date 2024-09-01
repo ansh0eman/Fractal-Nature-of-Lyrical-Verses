@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1nCSwLLVLxI3in0Djj-XwUmptQRxiaGUi
 """
 
-GENIUS_API_TOKEN='aMk3NwEa55ORwS_dlsYrV7HlNrZzegtdxSHj11Bo6_RlqEeCYLXgC0U2aiV0kCgP'
+GENIUS_API_TOKEN='api-token'
 
 import lyricsgenius
 import pandas as pd
